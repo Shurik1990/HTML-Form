@@ -1,0 +1,16 @@
+$verdana: Verdana, sans-serif;
+$body-color: #205078;
+
+body {
+	font: 12px $verdana;
+    background: $body-color;
+    width: 100%;
+	overflow-x: hidden;
+}
+a {
+	text-decoration: none;
+    cursor: pointer;
+}
+button {
+    cursor: pointer;
+}

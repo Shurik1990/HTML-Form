@@ -1,0 +1,31 @@
+/* Fonts */
+/* Files */
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: 12px Verdana, sans-serif;
+  background: #205078;
+  width: 100%;
+  overflow-x: hidden; }
+
+a {
+  text-decoration: none;
+  cursor: pointer; }
+
+button {
+  cursor: pointer; }
+
+@font-face {
+  font-family: 'Verdana';
+  src: url("../fonts/Verdana.eot");
+  src: url("../fonts/Verdana.eot?#iefix") format("embedded-opentype"), url("../fonts/Verdana.woff2") format("woff2"), url("../fonts/Verdana.woff") format("woff"), url("../fonts/Verdana.ttf") format("truetype"), url("../fonts/Verdana.svg#Verdana") format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-2074; }
+/* Colors */
